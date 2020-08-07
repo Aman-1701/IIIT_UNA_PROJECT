@@ -1,4 +1,5 @@
 # IIIT_UNA
+#INSTALL python 3.7 before downloading and running
 
 open cmd in the folder IIIT_UNA_PROJECT
 type=>> Scripts\activate
