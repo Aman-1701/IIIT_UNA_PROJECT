@@ -1,23 +1,37 @@
 # IIIT_UNA
 
-The Detection of license plate part is not done yet
-but the OCR is complete
+open cmd in the folder IIIT_UNA_PROJECT
+type=>> Scripts\activate
 
-Steps to run
+now the virtual environment is activated
 
-Add Images of license plates in the Identified_License_Plate_Images folder
+now,
+type =>>  pip install -r requirements.txt
 
-The images must be of jpg format 
 
-The images must be names 1,2,3...
+Input_Images
+Identified_LIcense_Plates_Images
+Output
 
-5 images are given already in that folder inorder to run the program
+Only the contents of above mentioned folders should be changed
 
-You can remove them if you want
+To run the program=>>
 
-Now install the specified packages from requirements
+The Input_Images folder contains sample input for the program
+You can delete them and add another images which are needed to be processed
 
-double click on main_OCR.py
+Now just double click on main.py
+
+The complete program will run automatically
+
+Output images will be created in Output folder
+An OUTPUT_FILE.txt will be created to store the read files and the data
+The detected license Plate will be stored in Identified_LIcense_Plates_Images folder
+
+
+NOTE:- The program will some extra time to run for the first time
+NOTE:- In OUTPUT_FILE.txt the data will be appended
+		But in the folders the images will be overwritten if the program is run again
 
 ###
 
