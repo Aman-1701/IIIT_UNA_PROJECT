@@ -1,19 +1,10 @@
-import subprocess
-
-#to activate the virtual environment
-cmd = subprocess.Popen('Scripts\\activate',shell=True, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.PIPE)
-output_byte = cmd.stdout.read() + cmd.stderr.read()
-
-
 from OCR import preprocessing_and_reading
 from OCR import list_modification
 import cv2
 import os
-
 from OCR import output_text_file
 from datetime import datetime
 import CreateNumberPlate
-
 
 
 #to run number plate detection

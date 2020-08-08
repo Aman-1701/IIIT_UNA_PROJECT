@@ -1,18 +1,17 @@
-# IIIT_UNA
-#INSTALL python 3.7 before downloading and running
+#INSTALL python 3.7 64-bit before running from the PYTHON37 project in the folder
 
-open cmd in the folder IIIT_UNA_PROJECT
-type=>> Scripts\activate
+USE PYTHON 3.7 TO RUN THE PROGRAM AS IT USES TENSORFLOW VERSION==1.15 AND PYTESSERACT
 
-now the virtual environment is activated
+Open cmd in the folder 
 
-now,
-type =>>  pip install -r requirements.txt
+Now,
+type =>>  pip install -r requirements.txt (for windows)
+to install the packages
 
-
-Input_Images
-Identified_LIcense_Plates_Images
-Output
+===>
+	Input_Images
+	Identified_LIcense_Plates_Images
+	Output
 
 Only the contents of above mentioned folders should be changed
 
@@ -34,7 +33,13 @@ NOTE:- The program will some extra time to run for the first time
 NOTE:- In OUTPUT_FILE.txt the data will be appended
 		But in the folders the images will be overwritten if the program is run again
 
-###
+################
+
+A project by->
+				Aman Verma
+				Jaywardhan Patil
+				Aniket Tiwari
+				Shubham Pandit
 
 
 
