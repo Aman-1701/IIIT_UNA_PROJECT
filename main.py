@@ -5,7 +5,9 @@ import os
 from OCR import output_text_file
 from datetime import datetime
 import CreateNumberPlate
+import name
 
+name.rename()
 
 #to run number plate detection
 CreateNumberPlate.CreatePlates('Input_Images')

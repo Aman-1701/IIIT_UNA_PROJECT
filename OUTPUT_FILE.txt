@@ -1,0 +1,10 @@
+plate1 Top choices: ['RYO7CKCV', 'fRYOCKCYs']  2020-08-08 17:16:03.639971
+
+plate2 Top choices: ['', '15NG12\nTa', 'TTme']  2020-08-08 17:16:06.298840
+
+plate3 Top choices: ['HR26DK647', 'HR26DK6Z7']  2020-08-08 17:16:07.606416
+
+plate4 Top choices: ['HR26DK8337', 'HR26DK83375']  2020-08-08 17:16:08.873533
+
+plate5 Top choices: ['FMae383', 'FMAG383', 'FMA6383', 'FHAG383']  2020-08-08 17:16:10.092702
+

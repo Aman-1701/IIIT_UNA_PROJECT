@@ -36,10 +36,11 @@ NOTE:- In OUTPUT_FILE.txt the data will be appended
 ################
 
 A project by->
-				Aman Verma
-				Jaywardhan Patil
-				Aniket Tiwari
-				Shubham Pandit
+
+Aman Verma				
+Jaywardhan Patil
+Aniket Tiwari
+Shubham Pandit
 
 
 
